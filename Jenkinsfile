@@ -9,6 +9,7 @@ pipeline {
             }
             steps {
                 sh 'echo build' 
+                sh 'python3 test.py'
             }
         }
     }
