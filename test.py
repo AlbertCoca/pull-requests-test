@@ -6,3 +6,4 @@
 
 # ==== CLASS DEFINITION =======================================================
 print("Test, passed!")
+print("Test, stil pass")
